@@ -1,2 +1,2 @@
 # TextGAN
-TensorFlow1.4 for AustinStoneProjects/TextGAN
+Python2.7 TensorFlow1.4 for https://github.com/AustinStoneProjects/TextGAN
